@@ -1,0 +1,16 @@
+body{
+    display: column;
+    background-color: bisque;
+    
+
+}
+.b{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.line{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
